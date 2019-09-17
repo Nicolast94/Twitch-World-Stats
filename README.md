@@ -1,1 +1,1 @@
-Twitch World Stats
+TwitchWorldStats
